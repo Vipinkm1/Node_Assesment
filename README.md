@@ -16,9 +16,9 @@ npm install
 
 3. Create .env file
 
-PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/ecommerceDB
-JWT_SECRET=mysecretkey
+-PORT=5000
+-MONGO_URI=mongodb://127.0.0.1:27017/ecommerceDB
+-JWT_SECRET=mysecretkey
 
 4. Run project
 
